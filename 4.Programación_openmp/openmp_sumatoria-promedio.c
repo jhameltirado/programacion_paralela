@@ -1,4 +1,4 @@
-// Distrución de tareas con for y uso de variables
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <omp.h>
