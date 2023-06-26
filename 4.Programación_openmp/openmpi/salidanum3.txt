@@ -1,0 +1,3 @@
+Menor: 2.00
+Mayor: 20.00
+Promedio: 9.67
